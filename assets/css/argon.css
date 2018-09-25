@@ -2661,7 +2661,7 @@ textarea.form-control
 
 .was-validated .custom-control-input:valid:checked ~ .custom-control-label::before,
 .custom-control-input.is-valid:checked ~ .custom-control-label::before
-{
+{   
     border-color: #93e7c3; 
     background-color: #54daa1;
 }
